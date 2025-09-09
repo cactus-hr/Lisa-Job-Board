@@ -7,8 +7,7 @@
 | Backend Developer (Python)   | 45k  | [Fulltruck](https://apply.workable.com/edgemony/j/3441D2A4B7/)   |
 
 
-
-# Ricerche concluse con successo: 
+# Ricerche concluse (con successo 🤠): 
 
 Full-stack Engineer (Node.js), 45k, cliente: Docebo
 
